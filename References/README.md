@@ -57,7 +57,7 @@ This folder contains interesting references about Speculative Design, either her
 * [Matt Ward blog](https://sb129.com/)
 * Ben Stopher & Tobias Revell, [Reflections on the SCD Summer School at LCC, UAL](https://medium.com/@IntDesCom/ben-stopher-tobias-revell-reflections-on-the-scd-summer-school-at-lcc-ual-f722d8023480)
 * [Transition Design Seminar 2019](https://transitiondesignseminarcmu.net/course-overview-structure/)
-* [Speculative Futures](http://speculatingfutures.club/)
+* [Speculating Futures](http://speculatingfutures.club/)
 * [Crap Futures](https://crapfutures.tumblr.com/)
 * Ivica Mitrović, Oleg Šuran, [Introduction to Speculative Design Practice – Eutropia, a Case Study](http://interakcije.net/2015/05/12/introduction-to-speculative-design-practice-eutropia-a-case-study/)
 * Ivica Mitrović, Oleg Šuran, [Speculative – Post-Design Practice or New Utopia?](http://speculative.hr/en/catalog/)

@@ -43,6 +43,9 @@ This folder contains interesting references about Speculative Design, either her
 * Ann Galloway, [Towards Fantastic Ethnography and Speculative Design](http://ethnographymatters.net/blog/2013/09/17/towards-fantastic-ethnography-and-speculative-design/)
 * Jain, A., Ardern, J. & Pickard, J., [Design Futurescaping](http://www.jfs.tku.edu.tw/17-1/S02.pdf)
 * Noah Raford, [From Design Fiction to Experiential Futures](http://noahraford.com/?p=1625)
+* Elisabet Roselló, [Design Fiction: Prototyping Desirable Futures](http://lab.cccb.org/en/design-fiction-prototyping-desirable-futures/)
+* Near Future Laboratory, [Our Approach of Design Fiction](https://medium.com/design-fictions/our-approach-of-design-fiction-3ac0b1ae81f0)
+* Nesta, [Speculative design: A design niche or a new tool for government innovation?](https://www.nesta.org.uk/blog/speculative-design-a-design-niche-or-a-new-tool-for-government-innovation/)
 
 
 # Other Publications
@@ -62,6 +65,7 @@ This folder contains interesting references about Speculative Design, either her
 * Ivica Mitrović, Oleg Šuran, [Introduction to Speculative Design Practice – Eutropia, a Case Study](http://interakcije.net/2015/05/12/introduction-to-speculative-design-practice-eutropia-a-case-study/)
 * Ivica Mitrović, Oleg Šuran, [Speculative – Post-Design Practice or New Utopia?](http://speculative.hr/en/catalog/)
 * [Design Fiction bibliography](http://www.nicolasnova.net/pasta-and-vinegar/2014/4/3/design-fiction-a-bibliography)
+* [Design Kit Methods](http://www.designkit.org/methods)
 
 
 

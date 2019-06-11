@@ -29,3 +29,4 @@ Each infographic is similar to the following one, coming from the interview with
 
 ![Infographic for Daniel Kaplan](https://raw.githubusercontent.com/speculativeedu/The-SpeculativeEdu-Online-Repository/master/Methods_and_tools/Approaches/DanielKaplan.png)
 
+In each infographic, 

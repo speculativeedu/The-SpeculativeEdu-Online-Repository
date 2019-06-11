@@ -12,7 +12,17 @@ As part of the SpeculativeEdu project we are creating an online repository of ma
 
 The online repository is [HERE](https://github.com/speculativeedu/The-SpeculativeEdu-Online-Repository), and it will be mentioned multiple times in this article, to have some practical examples available.
 
-## Initial analysis
+## Analysis
 
 From both types of inspection, it appears clear how most subjects in the domain intend speculative design as an approach, more than a formal methology, with the intent of bringing together multiple disciplines, skills, competences, cultures and interests, and to have the flexibility which is necessary, first of all, to convey the results of the technical and technological investigations into narrative form and diegetic outputs which are able to engage all senses. And, then, to be able to have the irony, curiosity and spectacularity which is necessary in order to engage different kind of people, from niches to mainstream, so that the information and knowledge coming from science and technology do not remain in the technical domain, but become an opportunity to bring communities together into a critical reflection around possible future scenarios of their cities, environment, schools, offices, homes etc.
 
+In the following sections we will first analyse the interviews that we have collected, then compare the toolkits and methods that have been made available by design practitioners. In the end we will draw some conclusions about the most salient characteristics of speculative design approaches and about the tools that are available, and about the ways in which speculative design can be included in education processes.
+
+### The Interviews
+
+The SpeculativeEdu project has collected a number of interviews from speculative design practitioners. Each interviewed subject has been asked a series of questions: some of the questions were common among all interviews, while some others were specific for each practitioner.
+You can find the interviews [HERE](http://speculativeedu.eu/category/interviews/).
+
+We have produced a number of sythetic infograsphics which allow us to inspect the principal characteristics of each approach. You can find the infographics [HERE](https://github.com/speculativeedu/The-SpeculativeEdu-Online-Repository/tree/master/Methods_and_tools/Approaches) in the online repository.
+
+Each infographic is similar to the following one, coming from the 

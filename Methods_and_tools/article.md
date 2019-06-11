@@ -25,4 +25,7 @@ You can find the interviews [HERE](http://speculativeedu.eu/category/interviews/
 
 We have produced a number of sythetic infograsphics which allow us to inspect the principal characteristics of each approach. You can find the infographics [HERE](https://github.com/speculativeedu/The-SpeculativeEdu-Online-Repository/tree/master/Methods_and_tools/Approaches) in the online repository.
 
-Each infographic is similar to the following one, coming from the 
+Each infographic is similar to the following one, coming from the interview with Daniel Kaplan:
+
+![Infographic for Daniel Kaplan](https://raw.githubusercontent.com/speculativeedu/The-SpeculativeEdu-Online-Repository/master/Methods_and_tools/Approaches/DanielKaplan.png)
+

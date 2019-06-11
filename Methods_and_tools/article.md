@@ -35,3 +35,14 @@ For example, in the graphic above, we can see that Daniel Kaplan – apart from 
 
 If we look at all the word clouds, and compare the results, it is possible to describe the principal focuses of the different "families" of speculative design practitioners, or, at least, their focuses on how they express them in their interviews, aka the way in which they represent themselves in public communication.
 
+Among the concepts which are more consistently focuses across all interviews, are:
+
+* __Design__, as the main container of the discussion;
+* __Possibility__, intended as the need to regain the "sense of possible";
+* __Futures__, plural, as the process of imagining different possible futures;
+* __Narrative__ and, thus, the focus on stories, and the way in which they constitute a very effective way to share knowledge, insights and visions;
+* __Thinkable__, intended as the capacity to have an un-inhibited approach to imagining things;
+* __Different / Alternative__, or the possibility to think scenarios that can also be radically different from the ones today;
+* __Produce__ and, thus, an active, participatory approach;
+* __People__, like above, in a vision of active participation and awareness;
+* __Practice__

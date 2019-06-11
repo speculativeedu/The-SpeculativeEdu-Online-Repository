@@ -29,4 +29,9 @@ Each infographic is similar to the following one, coming from the interview with
 
 ![Infographic for Daniel Kaplan](https://raw.githubusercontent.com/speculativeedu/The-SpeculativeEdu-Online-Repository/master/Methods_and_tools/Approaches/DanielKaplan.png)
 
-In each infographic, 
+The central part of each infographic is occupied by a word cloud generated from the text of the interviews, with each represented word's size proportional to the frequency in which it is used in the interview. This allows us to get a first initial understanding of the focuses of the particular subject, and comparing these focuses permits us to start understanding how different practitioners focus on different things to achieve their goals.
+
+For example, in the graphic above, we can see that Daniel Kaplan – apart from words that, in an interview like this, have prominence across all interview texts, like for the word "Design" – has a stong focus on people, on work and on the concept of "creating different narratives for the future".
+
+If we look at all the word clouds, and compare the results, it is possible to describe the principal focuses of the different "families" of speculative design practitioners, or, at least, their focuses on how they express them in their interviews, aka the way in which they represent themselves in public communication.
+

@@ -95,4 +95,9 @@ Among the most interesting ones:
 * *"Everyday: break down speculations about possible futures to the effects that will be found in everyday life"*, from Time's Up;
 * *"Experience: creating an experience of a scenario is more valuable that a description"*, from Time's Up.
 
-These sentences captured from the interviews could represent an effective "manual" for Speculative Design approaches, and should be framed in the context of an array of different possible strategies, tactics and tecniques for speculative design, as hilighted, for example, by the large number of nomenclatures for design approaches with a speculative character. For this we could say that these sentences define a style, an attitude, a philosophy, which can be declined into a number of different types of practices, roughly isomorphic to the various names of design practices with a speculative character. 
+These sentences captured from the interviews could represent an effective "manual" for Speculative Design approaches, and should be framed in the context of an array of different possible strategies, tactics and tecniques for speculative design, as hilighted, for example, by the large number of nomenclatures for design approaches with a speculative character. For this we could say that these sentences define a style, an attitude, a philosophy, which can be declined into a number of different types of practices, roughly isomorphic to the various names of design practices with a speculative connotation.
+
+### The toolkits
+
+
+## Conclusions 

@@ -28,6 +28,10 @@ This folder contains interesting references about Speculative Design, either her
 * Octavia E. Butler, [Kindred](https://books.google.it/books/about/Kindred.html?id=PyOEkgEACAAJ&redir_esc=y)
 * Sheree Renée Thomas, [Dark Matter: A Century of Speculative Fiction from the African Diaspora](https://www.amazon.com/Dark-Matter-Century-Speculative-Diaspora/dp/0446525839/ref=sr_1_1?keywords=dark+matter+thomas&qid=1561480349&s=gateway&sr=8-1)
 * John F. Szwed, [Space Is The Place: The Lives And Times Of Sun Ra](https://www.amazon.com/Space-Place-Lives-Times-Sun/dp/0306808552)
+* H. Porter Abbott, [The Cambridge Introduction to Narrative](https://books.google.it/books/about/The_Cambridge_Introduction_to_Narrative.html?id=Jyyt1826rhsC&redir_esc=y)
+* Scott McCloud, [Understanding Comics](https://en.wikipedia.org/wiki/Understanding_Comics)
+* Gottschall, J, [The storytelling animal: How stories make us human](https://www.researchgate.net/publication/263614044_Gottschall_J_2012_The_storytelling_animal_How_stories_make_us_human)
+*  Nathan Shedroff, Christopher Noessel, [Make It So: Interaction Design Lessons from Science Fiction](https://www.amazon.com/Make-So-Interaction-Lessons-Science/dp/1933820985)
 
 
 

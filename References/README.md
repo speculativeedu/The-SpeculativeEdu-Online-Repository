@@ -32,6 +32,9 @@ This folder contains interesting references about Speculative Design, either her
 * Scott McCloud, [Understanding Comics](https://en.wikipedia.org/wiki/Understanding_Comics)
 * Gottschall, J, [The storytelling animal: How stories make us human](https://www.researchgate.net/publication/263614044_Gottschall_J_2012_The_storytelling_animal_How_stories_make_us_human)
 *  Nathan Shedroff, Christopher Noessel, [Make It So: Interaction Design Lessons from Science Fiction](https://www.amazon.com/Make-So-Interaction-Lessons-Science/dp/1933820985)
+* Kees Dorst, [Designing for the Common Good](https://www.bispublishers.com/designing-for-the-common-good.html)
+* Salvatore Iaconesi, Oriana Persico, [Digital Urban Acupuncture](https://www.springer.com/gp/book/9783319434025)
+* Lev Manovich, [Software Takes Command](http://manovich.net/index.php/projects/software-takes-command)
 
 
 
@@ -50,6 +53,12 @@ This folder contains interesting references about Speculative Design, either her
 * Joseph Lindley, [A Pragmatics Framework for Design Fiction](https://www.researchgate.net/publication/275517754_A_Pragmatics_Framework_for_Design_Fiction)
 * Thomas Markussen, Eva Knutz, [The poetics of design fiction](https://www.researchgate.net/publication/262356453_The_poetics_of_design_fiction)
 * Joshua Tanenbaum, [Design Fictional Interactions: Why HCI Should Care About Stories](https://interactions.acm.org/archive/view/september-october-2014/design-fictional-interactions-why-HCI-should-care-about-stories)
+* Ingi Helgason, Michael Smyth, Søren Rosenbak, Ivica Mitrović, [Discourse, Speculation And Multidisciplinarity: Designing Urban Futures](http://www.nordes.org/opj/index.php/n13/article/view/375/354)
+* Paul Coulton, Joseph Lindley, Miriam Sturdee, Mike Stead, [Design Fiction as World Building](https://www.researchgate.net/publication/315697467_Design_Fiction_as_World_Building)
+* Chris Elsden, David Chatting, Abigail C. Durrant, Andrew Garbett, Bettina Nissen, John Vines, David S. Kirk, [On Speculative Enactments](https://dl.acm.org/citation.cfm?id=3025503)
+* Stuart Candy, [Experiential futures: Show and tell](https://www.researchgate.net/publication/305316754_Experiential_futures_Show_and_tell)
+* Eric Landowski, Gianfranco Marrone, [La società degli oggetti. Problemi di interoggettività](https://digilander.libero.it/marrone/pdf_testi/societa_degli_oggetti.pdf)
+
 
 # Other articles (on magazines, news, portals, web...)
 
@@ -72,7 +81,9 @@ This folder contains interesting references about Speculative Design, either her
 * Nesta, [Speculative design: A design niche or a new tool for government innovation?](https://www.nesta.org.uk/blog/speculative-design-a-design-niche-or-a-new-tool-for-government-innovation/)
 * Erica Eisenberg: [RADICAL ANTI DESIGN: AN ARGUMENT AGAINST MODERNIST SPECULATIVE DESIGN](http://sds.parsons.edu/transdesign/seminar/radical-anti-design-an-argument-against-modernist-speculative-design/)
 * Rinaldo Mattera: [Da Tomorrow Now a Shaping Things: la futurologia di Bruce Sterling](https://www.futurimagazine.it/science-fiction/tomorrow-now-shaping-things-la-futurologia-di-bruce-sterling/)
-
+* Ivica Mitrović: [Western Melancholy / How to Imagine Different Futures in the Real World?](http://interakcije.net/en/2018/08/27/western-melancholy-how-to-imagine-different-futures-in-the-real-world/)
+* [5 Most Prophetic Twilight Zone Episodes](https://smellslikeinfinitesadness.com/5-most-prophetic-twilight-zone-episodes/)
+* [15 Thought-Provoking Sci-fi Films That Are Worth Your Time](http://www.tasteofcinema.com/2014/15-thought-provoking-sci-fi-films-that-are-worth-your-time/)
 
 
 # Other Publications
@@ -93,6 +104,24 @@ This folder contains interesting references about Speculative Design, either her
 * Ivica Mitrović, Oleg Šuran, [Speculative – Post-Design Practice or New Utopia?](http://speculative.hr/en/catalog/)
 * [Design Fiction bibliography](http://www.nicolasnova.net/pasta-and-vinegar/2014/4/3/design-fiction-a-bibliography)
 * [Design Kit Methods](http://www.designkit.org/methods)
+* [VVFA podcasts](https://vvfa.space/podcast/)
+* [VVFA enquiries](https://vvfa.space/co-enquiries/)
+* [NormalFuture's editions](http://mixtur.es/normalshop/)
+* [LSN Global](https://www.lsnglobal.com/)
+* [Deloitte: Future of Work](https://www2.deloitte.com/global/en/pages/human-capital/topics/future-of-work.html)
+* [Gov.uk Foresight projects](https://www.gov.uk/government/collections/foresight-projects)
+* [Superflux: approach](http://superflux.in/index.php/questions/#)
+* [Superflux: workshops](http://superflux.in/index.php/category/workshops/#)
+* [Superflux: writing](http://superflux.in/index.php/category/publications/#)
+* [Shell future scenarios](https://www.shell.com/energy-and-innovation/the-energy-future/scenarios.html)
+* [Khole](http://khole.net/)
+* [Black Mirror](https://en.wikipedia.org/wiki/Black_Mirror)
+* [Superstudio](https://en.wikipedia.org/wiki/Superstudio)
+* [Archizoom](https://en.wikipedia.org/wiki/Archizoom_Associati)
+* [Minority Report](https://en.wikipedia.org/wiki/Minority_Report)
+* [Star Trek](https://en.wikipedia.org/wiki/Star_Trek)
+* [Transcendence](https://en.wikipedia.org/wiki/Transcendence_\(2014_film\))
+* [Traveklers](https://en.wikipedia.org/wiki/Travelers_\(TV_series\))
 
 
 
@@ -103,3 +132,10 @@ This folder contains interesting references about Speculative Design, either her
 * [Impakt Festival 2017](http://impakt.nl/festival/reports/impakt-festival-2017/impakt-festival-2017-anab-jain/)
 * [Scratching the Surface interviews collections](https://scratchingthesurface.fm/collections)
 * [Afrofuturism mixes sci-fi and social justice. Here’s how it works.](https://www.youtube.com/watch?time_continue=187&v=jlPwTMMhGGI)
+* [Superflux: talks](http://superflux.in/index.php/category/talks/#)
+* [Koert van Mensvoort, Pyramid of Technology TEDx Talk](https://www.mensvoort.com/home/pyramid-of-technology-tedx-talk/)
+* [How Designers Destroyed the World - Mike Monteiro, at USI](https://www.youtube.com/watch?v=qIcM21l61TE)
+
+
+# Other authors that are of extreme interest to Speculative Design
+* Marshall McLuhan, Aral Balkan, Geert Lovink, Matt Malpass, Bruce Sterling, Bruno Latour, Villem Flusser, Lev Manovich, Massimo Canevacci, Benjamin Bratton, Rem Koolhaas

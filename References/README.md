@@ -35,6 +35,7 @@ This folder contains interesting references about Speculative Design, either her
 * Kees Dorst, [Designing for the Common Good](https://www.bispublishers.com/designing-for-the-common-good.html)
 * Salvatore Iaconesi, Oriana Persico, [Digital Urban Acupuncture](https://www.springer.com/gp/book/9783319434025)
 * Lev Manovich, [Software Takes Command](http://manovich.net/index.php/projects/software-takes-command)
+* Ashish Kothari, Ariel Salleh, Arturo Escobar, Federico Demaria and Alberto Acosta, [Pluriverse: A Post-Development Dictionary](https://www.academia.edu/39692614/_Pluriverse_A_Post-Development_Dictionary_AUF_2019_._NEW_BOOK_edited_by_Ashish_Kothari_Ariel_Salleh_Arturo_Escobar_Federico_Demaria_and_Alberto_Acosta._Download_full_ebook_for_free_PDF_._License_Creative_Commons)
 
 
 

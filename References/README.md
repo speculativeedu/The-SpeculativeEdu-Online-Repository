@@ -67,6 +67,7 @@ This folder contains interesting references about Speculative Design, either her
 * Cameron Tonkinwise: [Being Dogmatic about Defining Speculative Critical Design Future Fiction](https://medium.com/@camerontw/just-design-b1f97cb3996f)
 * John Thackara: [Republic of Salivation Michael Burton and Michiko Nitta](https://www.moma.org/interactives/exhibitions/2013/designandviolence/republic-of-salivation-michael-burton-and-michiko-nitta/)
 * Matthew Ward, [Design Fiction as Pedagogic Practice](https://medium.com/@matthewward/design-fiction-as-pedagogic-practice-9b1fbba7ae2b)
+* Matthew Ward, [Design, Fiction and The Logic of the Impossible](https://medium.com/@matthewward/design-fiction-and-the-logic-of-the-impossible-7d10bfcf2b4b)
 * the [Near Future Design section of il Sole24Ore](https://argomenti.ilsole24ore.com/near-future-design.html)
 * Art is Open Source, [Near Future Design: the perception of a “new possible” and a new role for Design](http://www.artisopensource.net/2013/10/28/near-future-design-the-perception-of-a-new-possible-and-a-new-role-for-design/)
 * Art is Open Source, [Openness and Near Future Design](http://www.artisopensource.net/2013/11/14/openness-and-near-future-design-at-i-lab-at-luiss-university/)

@@ -92,6 +92,7 @@ This folder contains interesting references about Speculative Design, either her
 * Near Future Laboratory, [TBD Catalog](http://tbdcatalog.com/)
 * Nicolas Nova, [Curious Rituals](https://curiousrituals.wordpress.com/)
 * Julian Bleeker, [Design Fiction: a short essay on design, science, fact and fiction](http://drbfw5wfjlxon.cloudfront.net/writing/DesignFiction_WebEdition.pdf)
+* [Buckminster Fuller's World Game](https://en.wikipedia.org/wiki/World_Game)
 * Art is Open Source + ISIA Design Florence, [Near Future Design Case Studies](http://www.artisopensource.net/NFD-NextFest2014.pdf)
 * Art is Open Source + La Sapienza University Rome, [Near Future Design](https://web.uniroma1.it/msproductdesign/archiviogallerie/near-future-design#/2)
 * [Design Readings](https://readings.design/)
